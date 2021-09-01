@@ -1,0 +1,16 @@
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\bin\Debug\net5.0\cadastro_series.exe
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\bin\Debug\net5.0\cadastro_series.deps.json
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\bin\Debug\net5.0\cadastro_series.runtimeconfig.json
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\bin\Debug\net5.0\cadastro_series.runtimeconfig.dev.json
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\bin\Debug\net5.0\cadastro_series.dll
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\bin\Debug\net5.0\ref\cadastro_series.dll
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\bin\Debug\net5.0\cadastro_series.pdb
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.csproj.AssemblyReference.cache
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.AssemblyInfoInputs.cache
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.AssemblyInfo.cs
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.csproj.CoreCompileInputs.cache
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.dll
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\ref\cadastro_series.dll
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.pdb
+D:\repo\ws-Vs2019\cadastro_series\cadastro_series\obj\Debug\net5.0\cadastro_series.genruntimeconfig.cache
